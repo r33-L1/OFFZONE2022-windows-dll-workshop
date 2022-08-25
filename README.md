@@ -1,5 +1,8 @@
-# windows dll workshop
-Resources for Windows DLL Hijacking workshop at OFFZONE 2022
+# Windows DLL Hijacking Workshop
+> Resources
 
-I recommend Visual Studio CE.
+There are a few options that I used to set when working with this kind of code:
+
+1. Project Properties -> C/C++ -> Code Generation -> Runtime Library -> Multi-threaded Debug
+2.  Project Properties -> General -> Configuration Type -> (DLL or EXE)
 
